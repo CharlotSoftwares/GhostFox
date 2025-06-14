@@ -9,4 +9,6 @@ Domain: q7xa3lsk29.shdw
 Private Key: (saved to ~/.ghostnet/keys/)
 ```
   
-```$ ghost-start --serve 8080 --domain q7xa3lsk29.shdw```    
+```  
+$ ghost-start --serve 8080 --domain q7xa3lsk29.shdw
+```    
